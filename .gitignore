@@ -1,6 +1,8 @@
 *.aux
 *.fls
 *.fdb_latex
-latexindent_temp.tex
+__latexindent_temp.tex
 *.synctex
 *.log
+*.synctex.gz
+*.fdb_latexmk
